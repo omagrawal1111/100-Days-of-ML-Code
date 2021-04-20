@@ -12,3 +12,7 @@ Check out the code from [here](https://github.com/omagrawal1111/100-Days-of-ML-C
 
 ## Simple Linear Regression | Day 2
 Check Out the code [here]
+<br> ▶ Step 1 : Pre-process the data
+<br> ▶ Step 2 : Fitting simple linear regression model to traning set
+<br> ▶ Step 3 : Predicting the result
+<br> ▶ Step 4 : Visualisation
